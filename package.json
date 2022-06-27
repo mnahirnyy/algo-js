@@ -1,0 +1,16 @@
+{
+  "name": "myalgorithms",
+  "version": "1.0.0",
+  "description": "learning algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start-dev": "node ./src/index"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms"
+  ],
+  "author": "mnahirnyi",
+  "license": "ISC"
+}
